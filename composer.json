@@ -1,0 +1,7 @@
+{
+    "name": "maaik/grumphp",
+    "require": {},
+    "require-dev": {
+        "phpro/grumphp": "^0.12.0"
+    }
+}
